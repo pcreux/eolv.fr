@@ -1,0 +1,25 @@
+body {
+  margin-top: 30px;
+  text-align: center;
+  color: #480403;
+}
+
+.title {
+  font-family: "Arial Black", "Arial Bold", Gadget, sans-serif;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.lv {
+  color: #884443;
+}
+
+.quote {
+  font-family: Georgia, serif;
+  font-weight: bold;
+  font-size: 25px;
+  line-height: 1.5em;
+
+  margin-top: 30px;
+}
+
